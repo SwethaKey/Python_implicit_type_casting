@@ -5,7 +5,7 @@
 =>    6/3 = 2.0 always
 
 # Example 2
-=> 2) user can enter a number like X vlaue but it is inside type is str 
+=> 2) user can enter a number like X vlaue but it is internally type is str 
 
 
 # 2. Explicit: done by programmer using build-in function.
