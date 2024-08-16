@@ -1,7 +1,7 @@
 # Python_implicit_type_casting
 # 1. Implicit: done by Compiler     
-int/int = float type
-6/3 = 2.0 always
+=> 1) int/int = float type
+      6/3 = 2.0 always
 
 
 
