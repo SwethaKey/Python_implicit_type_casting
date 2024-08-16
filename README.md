@@ -9,3 +9,7 @@
 
 
 # 2. Explicit: done by programmer using build-in function.
+# Example
+=> p = 400
+   q = 500
+   print(int(p/q))
